@@ -13,6 +13,8 @@ But Here is  the clone for just send the transaction
 
 Like you give the Account Number and Amount of Eth  to be Send then get transfeered to respective account on one click
 
+This App is capable of Detecting change of accounts in MetaMask while forwarding a Transaction.
+
 Entirely First-End is Developed using Javascript with TailWind CSS 
 
 for Contract Writing used Solidity and for Contract Deployment 'HARDHAT' was used

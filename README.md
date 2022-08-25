@@ -18,5 +18,3 @@ This App is capable of Detecting change of accounts in MetaMask while forwarding
 Entirely First-End is Developed using Javascript with TailWind CSS 
 
 for Contract Writing used Solidity and for Contract Deployment 'HARDHAT' was used
-
-Finally,For DataBase Sanity.io will be used.
